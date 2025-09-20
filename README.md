@@ -25,7 +25,7 @@ Huntnroll is a simple Python app to help groups decide who gets to start (e.g., 
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/khintz/huntnroll.git
    cd huntnroll
    ```
 2. **(Optional) Create a virtual environment:**
